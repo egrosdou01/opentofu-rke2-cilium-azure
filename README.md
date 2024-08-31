@@ -12,11 +12,14 @@ If you have an Azure subscription, update the code to reflect an RKE2 cluster in
 1. OpenTofu binary installed
 
 ## Execute OpenTofu Plan
+Note: Identify your own way of exposing sensitive variables before the execution of the plan.
+
 ```bash
 1. tofu init
 2. tofu plan
 3. tofu apply
 ```
+
 ## Delete Resources
 
 ```bash
