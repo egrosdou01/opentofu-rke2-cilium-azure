@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The repository is a showcase of the blog post found [here](https://egrosdou01.github.io/personal-blog/blog/opentofu-rke2-cilium-azure.md). The code allows you to create an RKE2 cluster powered with [Cilium](https://docs.cilium.io/en/stable/) in Azure using the `free-credits` concept.
+The repository is a showcase of the blog post found [here](https://blog.grosdouli.dev/blog/opentofu-rke2-cilium-azure). The code allows you to create an RKE2 cluster powered with [Cilium](https://docs.cilium.io/en/stable/) in Azure using the `free-credits` concept.
 
 If you have an Azure subscription, update the code to reflect an RKE2 cluster in a different region, with more resources and nodes attached.
 
